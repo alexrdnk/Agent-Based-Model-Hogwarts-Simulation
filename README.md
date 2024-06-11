@@ -46,7 +46,7 @@ Weather level: 2
 <br/>Po ustawieniu przez użytkownika wejściowych parametrów - wciskamy `Setup`, a następnie `Start`.
 <br/>Podczas działania programu magowie dwóch drużyn walczą miedzy sobą oraz dwa bohatera: `Harry Potter` i `Voldemort`.
 
-<br/>Logika poruszenia po mapie magów:
+<br/>Logika poruszania się po mapie:
 ```java
 MOVE
 ```
