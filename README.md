@@ -25,6 +25,7 @@ Delivery method: Courier
 
 ## Struktura projektu
 <br/>`The structure of my project looks like:`
+![](src/main/resources/hogwarts.png)
 
 
 ## Funkcjonalność programu
